@@ -1,1 +1,1 @@
-console.log("hello world");
+let cars = ["BMW", "Audi", "Peugeot", "Mercedes", "Ford", "Honda", "Opel"];
